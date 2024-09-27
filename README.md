@@ -2,7 +2,7 @@
 These materials support a workshop comparing two popular online genome browsers.
 
 # Introduction
-Genome browsers are a good way to get a survey or review of many types of molecular information available on your query. They provide a one-stop interface with links to external sources, but also show you the location of your gene (or protein) in context of the genome. Explore tracks of data on regulation, variation, ENCODE project data, homology, and much more. Edit tracks to display only the information you want to see. You can download data from the browser interface as well. 
+Genome browsers are a good way to get a survey or review of many types of molecular information available on your query. They provide a one-stop interface with links to external sources, but also show you the location of your gene (or protein) in context of the genome. Explore tracks of data on regulation, variation, expression, species conservation, and much more. Edit tracks to display only the information you want to see. You can download data from the browser interface as well. 
 
 This workshop is a basic overview of two popular genome browsers: the UCSC Genome Browser and the Ensembl Genome Browser. You'll learn the basics of navigating in both browsers, in their online formats. This workshop is intended for novice users of genome browsers, but we hope that everyone can learn something new from the session.
 
