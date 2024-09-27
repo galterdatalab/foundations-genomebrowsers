@@ -19,6 +19,7 @@ ACE2 is the angiotensin converting enzyme 2. It is not as well annotated as some
   * Clicking on the suggested result is the most efficient method, IF you are certain this is the gene you want.  
 * Take some time figuring out: What chromosome and strand is the gene coded on? How can you change the order of the tracks? How do you zoom? How do you find links to the DNA sequence? Protein? Structure? Is it easy to find how many transcripts the gene encodes
 
+
 ## Doing the same thing in Ensembl  
 * Go to the Ensembl Genome Browser home page
 * Notice that you don't have the option to select the build. If you look in the "Favorite Genomes" section under the search box, though, you can see a link to the GRCh37 build.
