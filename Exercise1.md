@@ -40,4 +40,5 @@ When you click on a feature in each browser, different things will happen.
 * When you click (left click) on an individual feature in Ensembl, a small popup will open, giving information on the feature and links to sequence and information.
 * When you right click on a feature in UCSC, a feature-specific popup will open, allowing you to change the view, highlight, get DNA for the feature.
 * When you right click on a feature in Ensembl, nothing happens in the genome browser (instead you will get a web browser popup menu).
-* **In UCSC only**:  When you left click on a track title, the track will condense down to dense view. 
+* **In UCSC only**: When you click on a track title, the track will condense down to dense view.  
+* **In UCSC only**: When you click on the vertical bar to the left of any track, it will open the configuration menu for that track, where you can change the view, features shown, etc.
