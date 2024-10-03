@@ -31,4 +31,13 @@ ACE2 is the angiotensin converting enzyme 2. It is not as well annotated as some
     * Note that this looks VERY different from UCSC. There are more text elements, with the browser view in the bottom.
     * The left menu is very helpful. It will take you to specific features with their own detailed options.
     * Also note the top of the view: there are two tabs, one for location and one for gene. If you click on a transcript, for example, you will open another tab. This is nice if you want to get back to where you started, but some people might find multiple tabs distracting. 
-* Take some time figuring out: What chromosome and strand is the gene coded on? How can you change the order of the tracks? How do you zoom? How do you find links to the DNA sequence? Protein? Structure? Is it easy to find how many transcripts the gene encodes?
+* Take some time figuring out: What chromosome and strand is the gene coded on? How can you change the order of the tracks? How do you zoom? How do you find links to the DNA sequence? Protein? Structure? Is it easy to find how many transcripts the gene encodes?  
+
+
+## Clicking on things in the browser graphic  
+When you click on a feature in each browser, different things will happen.  
+* When you click (left click) on an individual feature in UCSC (like a transcript, a SNP a regulatory feature), an "Item detail" page will open over the browser, displaying more information on the feature and links to supporting information.
+* When you click (left click) on an individual feature in Ensembl, a small popup will open, giving information on the feature and links to sequence and information.
+* When you right click on a feature in UCSC, a feature-specific popup will open, allowing you to change the view, highlight, get DNA for the feature.
+* When you right click on a feature in Ensembl, nothing happens in the genome browser (instead you will get a web browser popup menu).
+* **In UCSC only**:  When you left click on a track title, the track will condense down to dense view. 
