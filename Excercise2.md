@@ -12,4 +12,7 @@ There are several regulatory regions available in the set tracks for UCSC. Data 
   * When you're done, hit the "Submit" button near the top of the selection panel.
 
 ## Adding regulation tracks in Ensembl  
-Regulation tracks are a little more tricky in Ensembl. They don't display featured tracks in the browser view. Instead, you must click on "Configure this page" in the left side menu.  
+A few regulatory features are shown by default in Ensembl.
+* There is a Regulatory Build track displayed under the transcripts in the browser graphic. It displays promoters (and their flanks), enhancers, CTCF binding sites, open chromatin, and TF binding sites. There is a color legend under the browser graphic.
+If you click on "Regulation" in the left menu, your window will zoom out by default, showing a much larger view with many genes and more regulation features packed in. 
+Regulation tracks are a little more tricky to add in Ensembl. They don't display featured tracks in selectable menus in the browser view, like UCSC. Instead, you must click on "Configure this page" in the left side menu OR click on "Add/remove tracks" just above the browser graphic.  
