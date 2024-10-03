@@ -35,8 +35,11 @@ ACE2 is the angiotensin converting enzyme 2. It is not as well annotated as some
 
 
 ## Clicking on things in the browser graphic  
-When you click on a feature in each browser, different things will happen.  
-* When you click (left click) on an individual feature in UCSC (like a transcript, a SNP a regulatory feature), an "Item detail" page will open over the browser, displaying more information on the feature and links to supporting information.
+When you click on a feature in each browser, varying things will happen.  
+* When you click (left click) on an individual feature in UCSC (like a transcript, a SNP a regulatory feature), _in most cases_, an "Item detail" page will open over the browser, displaying more information on the feature and links to supporting information.  
+  * Sometimes, in very feature-heavy tracks, clicking on what looks like a single feature will expand the track to "full", then you can click on a feature to see the information page.  
+  * In other tracks (layered methylation or acetylation, for example) clicking on the feature will open the configuration page for the track.  
+  * You will get used to the different results from clicking on different track types.    
 * When you click (left click) on an individual feature in Ensembl, a small popup will open, giving information on the feature and links to sequence and information.
 * When you right click on a feature in UCSC, a feature-specific popup will open, allowing you to change the view, highlight, get DNA for the feature.
 * When you right click on a feature in Ensembl, nothing happens in the genome browser (instead you will get a web browser popup menu).
