@@ -12,7 +12,16 @@ There are several regulatory regions available in the set tracks for UCSC. Data 
   * When you're done, hit the "Submit" button near the top of the selection panel.
 
 ## Adding regulation tracks in Ensembl  
-A few regulatory features are shown by default in Ensembl.
-* There is a Regulatory Build track displayed under the transcripts in the browser graphic. It displays promoters (and their flanks), enhancers, CTCF binding sites, open chromatin, and TF binding sites. There is a color legend under the browser graphic.
-If you click on "Regulation" in the left menu, your window will zoom out by default, showing a much larger view with many genes and more regulation features packed in. 
+A few regulatory features are shown by default in Ensembl. There is a Regulatory Build track displayed under the transcripts in the browser graphic. It displays promoters (and their flanks), enhancers, CTCF binding sites, open chromatin, and TF binding sites. There is a color legend under the browser graphic.  
+
+If you click on "Regulation" in the left menu, your window will zoom out by default, showing a much larger view with many genes and more regulation features packed in.  
+
 Regulation tracks are a little more tricky to add in Ensembl. They don't display featured tracks in selectable menus in the browser view, like UCSC. Instead, you must click on "Configure this page" in the left side menu OR click on "Add/remove tracks" just above the browser graphic.  
+* Configure this Page is where you can add any kind of tracks that are available in Ensembl. We're going to concentrate just on the Regulation tracks for now.  
+* "DNA Methylation" is somewhat disappointing in this section. It only includes Reduced Representation Bisulphite Sequencing (RRBS) for several cell lines. Some cell lines may have many features, while others may have none. 
+* Instead, to find more options, click on the menu for "Features by Cell/Tissue". Here you will find MANY available regulatory features.  
+  * Use the search box in the Cell/Tissue tab to search for your tissue or cell line of interest and click the check boxes next to your choices.  
+  * Click on the Experiments tab and choose the regulatory features you want from the Histone, Open Chromatin, and Transcription Factors internal tabs. There is a search box in Experiments to help you find what you want faster, too.  
+  * When you've selected what you want to see, click the green "Configure track display" button to preview what you will add, then click the green "View tracks" button. The configuration page will close and the browser will refresh.
+  * Notice that there is a link to the Trackhub Registry in a yellow banner on ANY feature configuration page. You can try adding tracks from these hubs, too.
+ * **Note**: Clicking on the header for any of the track sets (e.g. "Variation") will allow you to select options in all the categories in that heading, instead of setting them one-by-one.
