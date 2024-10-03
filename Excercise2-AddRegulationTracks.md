@@ -1,7 +1,7 @@
 # Adding tracks to the view  
 It's easy to add new tracks to each browser's view. The most difficult part is knowing which tracks have the information you want to see.  
 ## Adding regulation tracks in UCSC  
-There are several regulatory regions available in the set tracks for UCSC. Data from the ENCODE project are featured, with H3K27Ac shown by default. You can add more, though.  
+There are several regulatory regions available in the set tracks for UCSC. Data from the ENCODE project are featured, with ENCODE cCREs and layered H3K27Ac shown by default. You can add more, though.  
 * Go down to the set of track selection panels, and under Regulatory, click on the name "ENCODE Regulation".  
   * Any set of tracks that has a folder next to it will have multiple tracks that may or may not show in the browser's default view. By clicking on the track name, you can add more.  
 * Add the methylation tracks (and any others you're interested in), then click the "Refresh" button in the blue ribbon header for the track set.  The browser will refresh.
