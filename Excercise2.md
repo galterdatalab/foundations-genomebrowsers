@@ -12,4 +12,4 @@ There are several regulatory regions available in the set tracks for UCSC. Data 
   * When you're done, hit the "Submit" button near the top of the selection panel.
 
 ## Adding regulation tracks in Ensembl  
-Regulation tracks are a little more "tricky" in Ensembl. They don't display featured tracks in the browser view. Instead, you must click on "Configure this page" in the left side menu.  
+Regulation tracks are a little more tricky in Ensembl. They don't display featured tracks in the browser view. Instead, you must click on "Configure this page" in the left side menu.  
