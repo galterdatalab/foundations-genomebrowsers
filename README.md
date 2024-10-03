@@ -19,8 +19,9 @@ We won't have time to explore even a fraction of all the tracks available. There
 In addition to our GalterGuides, there are lots of support materials available for each genome browser.
 ## UCSC Genome Browser support materials
 * [Genome Browser User Guide](https://genome.ucsc.edu/goldenPath/help/hgTracksHelp.html)
-* [Online training](https://genome.ucsc.edu/training/index.html) (list of videos) and [YouTube Channel](https://www.youtube.com/channel/UCQnUJepyNOw0p8s2otX4RYQ/videos)
+* [Online training](https://genome.ucsc.edu/training/index.html) (list of videos) and [YouTube Channel](https://www.youtube.com/channel/UCQnUJepyNOw0p8s2otX4RYQ/videos)  
 * [Genome Browser FAQ](https://genome.ucsc.edu/FAQ/)
+* Also, when you're in the browser view, there is a banner at the top showing a guided tutorial (unless you've clicked "Don't show again"). There are also examples in a link to the right of the search button and a clinical tutorial link.  
 ## Ensembl Genome Browser support materials
   * [Help & Documentation page](https://useast.ensembl.org/info/index.html)
   * [Ensembl Tutorials and Worked Examples](https://useast.ensembl.org/info/website/tutorials/index.html) (videos) and [YouTube Channel](https://www.youtube.com/user/EnsemblHelpdesk)
