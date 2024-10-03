@@ -10,7 +10,10 @@ We will use both genome browsers, using an example molecule and performing the s
 
 You don't need to download anything for this session. All you need is a computer with an internet browser and an internet connection. 
 
-**There are no slides for this session**. It was created to be entirely hands-on. We do have guides for both genome browsers available at the Galter Library website at our [Genome Browsers GalterGuide page](https://galter.northwestern.edu/galterguides?url=https%3A%2F%2Flibguides.galter.northwestern.edu%2Fgenome-browsers).
+**There are no slides for this session**. It was created to be entirely hands-on. We do have guides for both genome browsers available at the Galter Library website at our [Genome Browsers GalterGuide page](https://galter.northwestern.edu/galterguides?url=https%3A%2F%2Flibguides.galter.northwestern.edu%2Fgenome-browsers).  
+
+# Explore, explore, explore!
+We won't have time to explore even a fraction of all the tracks available. There are some very cool features in both browsers in expression, comparative genomics, and other track sets that we won't have time to cover. So don't be afraid to explore on your own.  
 
 # Helpful guides and support materials
 In addition to our GalterGuides, there are lots of support materials available for each genome browser.
