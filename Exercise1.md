@@ -27,7 +27,7 @@ ACE2 is the angiotensin converting enzyme 2. It is not as well annotated as some
 * In the blue search region, used the dropdown menu to select Human, search for ACE2 and hit "GO".
 * The results here will show you all the human hits from your search. Note that there is a left side menu with catogories for gene, transcript, variation, etc. The top hit is usually the one you're looking for. There is also a small graphic of "Best gene match" to the right.
 * Click on the ACE2 gene result and you'll be taken into the browser view.
-* If you have used this browser recently and have different tracks, please find "Reset Configuration" at the very bottom of the color legends, and reset the defaults.
+* If you have used this browser recently and have different tracks, please find "Reset Configuration" in the blue-grey bar at the top or bottom of the browser graphic, and reset the defaults.
     * Note that this looks VERY different from UCSC. There are more text elements, with the browser view in the bottom.
     * The left menu is very helpful. It will take you to specific features with their own detailed options.
     * Also note the top of the view: there are two tabs, one for location and one for gene. If you click on a transcript, for example, you will open another tab. This is nice if you want to get back to where you started, but some people might find multiple tabs distracting. 
