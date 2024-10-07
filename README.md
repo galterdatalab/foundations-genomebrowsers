@@ -15,6 +15,12 @@ You don't need to download anything for this session. All you need is a computer
 # Explore, explore, explore!
 We won't have time to explore even a fraction of all the tracks available. There are some very cool features in both browsers in expression, comparative genomics, and other track sets that we won't have time to cover. So don't be afraid to explore on your own.  
 
+# Create an account at each browser  
+It's free to create a user account for each browser, and we recommend it. This will allow you to save results and revisit analyses you have saved previously, give you a place to upload data, provide a place to share sessions with collaborators.  
+* **To create an account at UCSC**, click on the **My Data** menu, then **My Sessions**. At the top of My Sessions are links to login or create an account.
+* **To create an account at Ensembl**, click on the **Login/Register** link in the upper right corner of any browser or Ensembl page.
+
+
 # Helpful guides and support materials
 In addition to our GalterGuides, there are lots of support materials available for each genome browser.
 ## UCSC Genome Browser support materials
