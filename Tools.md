@@ -11,4 +11,5 @@ There are more tools from each site, and more are being created all the time.
 
 
 # Uploading Your Own Data  
-Both sites allow you to upload your own experimental data. There isn't time to demonstrate this for this session, but we have included instructions on how to prepare data for upload to UCSC using Globus. Those instructions, created by Rad
+Both sites allow you to upload your own experimental data. There isn't time to demonstrate this for this session, but we have included instructions on how to prepare data for upload to UCSC using Globus and Quest. Those instructions, created by NUIT Research Computing and Data Services, are available in this repository. These instructions can be modified to work for Ensembl, too.  
+Uploading data can be done in the **My Data** menu in UCSC, and the **Custom Tracks** menu in the browser view of Ensembl. 
