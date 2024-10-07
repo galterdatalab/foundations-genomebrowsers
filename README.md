@@ -1,4 +1,4 @@
-# Fundamentals - Genome Browsers
+# Foundations - Genome Browsers
 These materials support a workshop comparing two popular online genome browsers.
 
 # Introduction
