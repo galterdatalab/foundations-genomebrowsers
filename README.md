@@ -1,5 +1,5 @@
 # Foundations - Genome Browsers
-These materials support a workshop comparing two popular online genome browsers.
+These materials support a workshop comparing two popular online genome browsers, initially taught in Fall 2024, as part of the series Fundamentals in Genome Analyses, hosted by NUIT Research Computing and Data Services. These materials were prepared and presented by Pamela Shaw of Galter Health Sciences Library.
 
 # Introduction
 Genome browsers are a good way to get a survey or review of many types of molecular information available on your query. They provide a one-stop interface with links to external sources, but also show you the location of your gene (or protein) in context of the genome. Explore tracks of data on regulation, variation, expression, species conservation, and much more. Edit tracks to display only the information you want to see. You can download data from the browser interface as well. 
