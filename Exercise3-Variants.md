@@ -5,7 +5,7 @@ Variants are numerous, especially in the annotated human genome, so genome brows
 By default, UCSC shows the current dbSNP release in the dense view. If you expand this view to "full", you will see why depicting variants graphically can be challenging.  
 * Some variants can be found in the Phenotype and Literature section instead of Variation - these are clinically assessed or disease-associated variants in databases like ClinVar and COSMIC, along with other sources.
 * The dbSNP variants, when you click on them, open the Item Detail page, with useful information on the variant and frequencies from several reporting databases.
-* These tracks are straightforward. There's very little that you need to do to find discover the data. You can always look for more variant data in the Track Hubs, too.
+* These tracks are straightforward. There's very little that you need to do to discover the data. You can always look for more variant data in the Track Hubs, too.
 
 ## Variants in Ensembl - "Too much data to display"    
 Unlike UCSC, Ensembl does **not** show human variants in the graphic view for the Gene tab. They have determined that there are too many variants to show effectively in the graphic view, so if you click on "Variant Image" in the left menu while in the Gene tab, you will receive a message that Ensembl has retired the variant image for human variants.  
