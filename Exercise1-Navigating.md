@@ -9,7 +9,6 @@ We're going to use the gene ACE2 for this example.
 ACE2 is the angiotensin converting enzyme 2. It is not as well annotated as some other genes (my example gene in the UCSC Genome Browser GalterGuide is ACE, which is well-annotated). However, this enzyme has received more interest in recent years, since it is the functional receptor for the spike glycoprotein of the SARS-CoV and SARS-CoV-2 (COVID-19) viruses.  
 ## Searching for your gene, navigating, and finding essential information in UCSC  
 * Go to the [UCSC Genome Browser](https://genome.ucsc.edu/cgi-bin/hgGateway) home page
-* Click on Genome Browser in the top dark blue menu, or in the main page (top link)
 * If you've used the browser (fairly) recently, please hover over the Genome Browser menu and click "Reset User Settings". This will give you a "clean" start.
 * Select your species and genome assembly
     * By default, the browser goes to the human genome, which we will use, but there are MANY other curated genomes available. The current annotated assembly is GRCh38/hg38, but you can select older builds, and there is an in-progress 2022 build, as well.
