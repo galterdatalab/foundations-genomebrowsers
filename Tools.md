@@ -16,5 +16,5 @@ Both sites allow you to upload your own experimental data. There isn't time to d
 Uploading data can be done in the **My Data** menu in UCSC, and the **Custom Tracks** menu in the browser view of Ensembl.  
 
 ## Watch this YouTube video by Elizabeth Bartom!  
-Elizabeth is the Scientific Associate Director of Bioinformatics at the Lurie Cancer Center. She has created a very easy-to-follow seminar on uploading your own data to UCSC:  
+Elizabeth is the Scientific Associate Director of Bioinformatics at the Quantitative Data Sciences Core at the Lurie Cancer Center. She has created a very easy-to-follow seminar on uploading your own data to UCSC:  
 [The UCSC Genome Browser: Exploring Your Sequencing Data](https://www.youtube.com/watch?v=4LViLraTYws&pp=ygUjZWxpemFiZXRoIGJhcnRvbSBjYW5jZXIgY2VudGVyIFVDU0M%3D)
